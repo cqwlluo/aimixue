@@ -1,0 +1,33 @@
+.news_target {
+  color: #333;
+}
+.content {
+  height: 2211px;
+  padding-left: 185px;
+}
+
+h2 {
+  width: 432px;
+  padding-bottom: 15px;
+  font-size: 24px;
+  margin: 15px auto 0;
+  text-align: center;
+  display: block;
+  border-bottom: 1px solid #999;
+}
+.c-txt {
+  position: relative;
+  height: 657px;
+  padding-top: 43px;
+  margin-bottom: 82px;
+  border-top: 1px solid #999;
+}
+.c-txt.first {
+  border: 0;
+}
+.c-txt p {
+  line-height: 22px;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 25px;
+}
